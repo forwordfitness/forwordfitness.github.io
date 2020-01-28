@@ -1,13 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c78c54e-2efd-4a35-b53a-0f7980ce6220" name="Default Changelist" comment="" />
+    <list default="true" id="5c78c54e-2efd-4a35-b53a-0f7980ce6220" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/1.6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/1.7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/1.8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/2.1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/2.2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/2.3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/3.1.JPG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1.1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/1.1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1.2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/1.2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1.3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/1.3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/2.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/3.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/banner.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/award1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WxOYk4ThIiogzeGwewS1tBqoRC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -35,6 +63,9 @@
       <option name="presentableId" value="Default" />
       <updated>1580087829470</updated>
       <workItem from="1580087831738" duration="10579000" />
+      <workItem from="1580173215449" duration="5037000" />
+      <workItem from="1580179707500" duration="2137000" />
+      <workItem from="1580185879357" duration="82000" />
     </task>
     <servers />
   </component>
@@ -46,10 +77,10 @@
       <screen x="-1920" y="96" width="1920" height="1040" />
     </state>
     <state x="-1215" y="419" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680/-1920.96.1920.1040@-1920.96.1920.1040" timestamp="1580097708493" />
-    <state x="-1230" y="363" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580095858472">
+    <state x="-1230" y="363" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580175652957">
       <screen x="-1920" y="96" width="1920" height="1040" />
     </state>
-    <state x="-1230" y="363" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680/-1920.96.1920.1040@-1920.96.1920.1040" timestamp="1580095858472" />
+    <state x="-1230" y="363" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680/-1920.96.1920.1040@-1920.96.1920.1040" timestamp="1580175652957" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1580087880540">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
