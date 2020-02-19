@@ -143,7 +143,7 @@ header {
 }
 
 .banner-text-w3-agileits h2 {
-	font-size: 3em;
+	font-size: 4em;
 	letter-spacing: 8px;
 	font-weight: 500;
 	color: #fff;
@@ -155,7 +155,7 @@ header {
 	position: absolute;
 	content: "";
 	width: 150px;
-	height: 2px;
+	height: 5px;
 	bottom: -8px;
 	right: 1px;
 	background: #47cf73;
@@ -167,7 +167,7 @@ header {
 
 .banner-text-w3-agileits p {
 	color: #47cf73;
-	font-size: 1em;
+	font-size: 2em;
 	letter-spacing: 7px;
 	font-weight: 400;
 	background: rgba(0, 0, 0, 0.32);
